@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../html_as/.idea/html_as.iml" filepath="$PROJECT_DIR$/../html_as/.idea/html_as.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/html_eu.iml" filepath="$PROJECT_DIR$/.idea/html_eu.iml" />
     </modules>
   </component>
